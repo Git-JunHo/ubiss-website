@@ -1,4 +1,4 @@
-# ubiss-website
+# UBISS-Website
 
 <!--<!DOCTYPE html>-->
 <html>
@@ -10,10 +10,10 @@
 <h1><a href="index.html">UBISS</a></h1>
 <ol>
  <li><a href="1.html">warehouse</a></li>
- <li><a href="1.html">cutting</a></li>
- <li><a href="1.html">sewing</a></li>
- <li><a href="1.html">packing</a></li>
- <li><a href="1.html">color</a></li>
+ <li><a href="2.html">cutting</a></li>
+ <li><a href="3.html">sewing</a></li>
+ <li><a href="4.html">packing</a></li>
+ <li><a href="5.html">color</a></li>
 </ol>
 
 <h2>주요내용</h2>
