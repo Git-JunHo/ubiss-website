@@ -1,6 +1,6 @@
 # ubiss-website
 
-<!DOCTYPE html>
+<!--<!DOCTYPE html>-->
 <html>
 <head>
  <title>UBISS</title>
