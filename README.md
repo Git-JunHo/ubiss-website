@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UBISS</title>
     <style>
-        
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -13,8 +12,7 @@
             background-image: url('https://www.ubaseinternational.com/kor/images/common/bg_sub1.png'); 
             background-position: center;
             background-position: center bottom; 
-            
-        }
+            }
         header {
             background-color: #333;
             color: #fff;
@@ -22,16 +20,13 @@
             text-align: center;
             font-size: 35px;
             letter-spacing: 7px;
-            /*background-image: url('https://www.ubaseinternational.com/kor/images/common/bg_sub1.png'); 
             background-size: cover; 
             background-position: center; 
-                    
         }
         nav {
             background-color: #f4f4f4;
             padding: 10px;
-            text-align: center;
-            
+            text-align: center;    
         }
         nav ul {
             list-style-type: none;
@@ -69,8 +64,7 @@
             bottom: 0;
             width: 100%;
             font-size: 15PX;
-        }
-        
+        }  
     </style>
 </head>
 <body>
